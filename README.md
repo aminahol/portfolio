@@ -1,10 +1,12 @@
 # Projects
 
+
 ## Mortality Rate in Africa
 
-![Mortality in Africa](https://github.com/aminahol/Mortality-Rates-In-Africa/blob/4c3ae3844cc164b0ff7440e0f25634cad1ba21b9/images/Mortality%20In%20Africa.png)
+![Mortality in Africa](https://github.com/aminahol/portfolio/blob/559e56530d22f248b663bab2991deb8e9c269d93/assets/Mortality%20In%20Africa.png)
 
-This analysis uses EDA and machine learning clustering techniques to examine the relationship between population, healthcare access, and mortality rates across African countries. The insights reveal key patterns and groupings, highlighting the factors influencing mortality trends across the region. 
+
+This analysis uses EDA and machine learning clustering techniques to explore the relationships between population dynamics, healthcare access, mortality trends, demographic data, and leading causes of death across African countries. By applying K-Means clustering, I identified key patterns, including high-risk nations, and uncovered insights into the factors driving mortality rates. The analysis leveraged tools like Pandas, Scikit-learn, and Matplotlib to provide actionable recommendations for improving healthcare outcomes in the region.
 
 [GitHub](https://github.com/aminahol)
 
