@@ -3,7 +3,8 @@
 
 ## Mortality Rate in Africa
 
-![Mortality in Africa](https://github.com/aminahol/portfolio/blob/559e56530d22f248b663bab2991deb8e9c269d93/assets/Mortality%20In%20Africa.png)
+![Mortality in Africa](https://github.com/aminahol/portfolio/blob/a3666072d87eb546d1a6fd27edff86162b1cbeba/assets/Mortality%20In%20Africa.png)
+
 
 
 This analysis uses EDA and machine learning clustering techniques to explore the relationships between population dynamics, healthcare access, mortality trends, demographic data, and leading causes of death across African countries. By applying K-Means clustering, I identified key patterns, including high-risk nations, and uncovered insights into the factors driving mortality rates. The analysis leveraged tools like Pandas, Scikit-learn, and Matplotlib to provide actionable recommendations for improving healthcare outcomes in the region.
