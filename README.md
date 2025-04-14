@@ -29,14 +29,16 @@ This analysis uses EDA and machine learning clustering techniques to explore the
 
 ## 💬 Let's Connect
 
+## 💬 Let's Connect
+
 <p align="center">
   <a href="mailto:aminaholo.ai@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png" alt="Email" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png" alt="Email" style="margin: 0 25px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.linkedin.com/in/aminah-olorunoje" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" style="margin: 0 25px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/aminahol" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" style="margin: 0 25px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
