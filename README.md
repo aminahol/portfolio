@@ -1,9 +1,4 @@
-# 👩🏽‍💻 Aminah Olorunoje
 
-**Data Analyst** with a strong interest in **Machine Learning** and **AI**.  
-Focused on using data-driven approaches to solve complex problems and deliver actionable insights.
-
----
 
 ##  Projects
 
@@ -24,7 +19,6 @@ The analysis leveraged tools like **Pandas**, **Scikit-learn**, and **Matplotlib
 
 ## 💻 Skills
 
-### 🛠️ Technical Skills
 - **Programming Languages:** Python, R, SQL, Excel VBA  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, MS Excel  
 - **Data Analysis Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch  
