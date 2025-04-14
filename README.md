@@ -27,10 +27,16 @@ This analysis uses EDA and machine learning clustering techniques to explore the
 - **Other Tools**: MS Office (Powerpoint, Word, Outlook)
 
 
-## Contact
+## 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminah-olorunoje)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aminaholo.ai@gmail.com)
-
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aminahol)
+<p align="center">
+  <a href="mailto:aminaholo.ai@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png" alt="Email" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.linkedin.com/in/aminah-olorunoje" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://github.com/aminahol" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" style="margin: 0 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</p>
