@@ -3,7 +3,7 @@
 
 ## Mortality Rate in Africa
 
-![Mortality in Africa](https://github.com/aminahol/portfolio/blob/a3666072d87eb546d1a6fd27edff86162b1cbeba/assets/Mortality%20In%20Africa.png?raw=true)
+![Mortality in Africa](https://raw.githubusercontent.com/aminahol/Mortality-Rates-In-Africa/refs/heads/main/images/Mortality%20In%20Africa.png)
 
 
 
