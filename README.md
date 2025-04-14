@@ -32,14 +32,14 @@ This analysis uses EDA and machine learning clustering techniques to explore the
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:aminaholo.ai@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/circled-envelope.png" alt="Email" style="margin: 0 40px;" />
-  </a>
   <a href="https://www.linkedin.com/in/aminah-olorunoje" target="_blank">
-    <img src="https://img.icons8.com/ios/50/0077B5/linkedin-circled--v1.png" alt="LinkedIn" style="margin: 0 40px;" />
+    <img src="https://github.com/user-attachments/assets/a7f99a96-0f99-4ccb-a661-6e69ee65a9ab" alt="LinkedIn" style="margin: 0 40px;" />
+  </a>
+  <a href="mailto:aminaholo.ai@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6562992b-d13c-4c9c-86fe-4f36e41bad20" alt="Email" style="margin: 0 40px;" />
   </a>
   <a href="https://github.com/aminahol" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/github--v1.png" alt="GitHub" style="margin: 0 40px;" />
+    <img src="https://github.com/user-attachments/assets/0cda3653-4722-483e-a996-34a6d79b0b4d" alt="GitHub" style="margin: 0 40px;" />
   </a>
 </p>
 
